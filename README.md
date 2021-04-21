@@ -1,5 +1,5 @@
 2021_Nkwasa_et_al
-Scripts used in the analyis of Nkwasa et al 2021.
+Scripts used in the analysis of Nkwasa et al 2021.
 
 
 Python scripts should be run on python3.
