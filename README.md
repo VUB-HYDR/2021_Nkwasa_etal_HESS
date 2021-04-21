@@ -1,4 +1,4 @@
-2021_Nkwasa_et_al
+# Some title
 Scripts used in the analysis of Nkwasa et al (submitted).
 
 TO INSTALL
