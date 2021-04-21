@@ -8,10 +8,10 @@ For users
 This repository includes the processing  scripts used in Nkwasa et al, 2021. Python is used to extract data from global datasets and generate decision tables for agricultural HRUs in the SWAT+ model 
 for large scale hydrological applications.
 
-For the python code, 
-'create_crop_maps.py' --> generates crop ids for respective crops that occupy the largest agricultural pixels from the LUH2-ISIMIP map(s) (Hurtt et al., 2020).
-'extract_fertilizer.py' --> creates fertilizer maps for the required simulation period using the ISIMIP N fertilizer files (Hurtt et al., 2020)  and the P fertilizer files from (Zhang et al., 2017) 
-'global_managment.py' --> creates the management files using the global datasets and the model TxtInOut folder files. 
+For the python code:  
+ (a) 'create_crop_maps.py' --> generates crop ids for respective crops that occupy the largest agricultural pixels from the LUH2-ISIMIP map(s) (Hurtt et al., 2020).
+ (b) 'extract_fertilizer.py' --> creates fertilizer maps for the required simulation period using the ISIMIP N fertilizer files (Hurtt et al., 2020)  and the P fertilizer files from (Zhang et al., 2017) 
+ (c) 'global_managment.py' --> creates the management files using the global datasets and the model TxtInOut folder files. 
 
 
 Versions
