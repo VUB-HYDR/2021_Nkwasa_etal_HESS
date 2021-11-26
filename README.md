@@ -10,7 +10,7 @@ This repository includes the processing  scripts used in Nkwasa et al, (submitte
 for large scale hydrological applications.
 For the python code:  
  (a) 'create_crop_maps.py' --> generates crop ids for respective crops that occupy the largest agricultural pixels from the LUH2-ISIMIP map(s) (Hurtt et al., 2020).
- (b) 'extract_fertilizer.py' --> creates fertilizer maps for the required simulation period using the ISIMIP N fertilizer files (Hurtt et al., 2020)  and the P fertilizer files from (Zhang et al., 2017) 
+ (b) 'extract_fertilizer.py' --> creates fertilizer maps for the required simulation period using the ISIMIP N fertilizer files (Hurtt et al., 2020)  and the P fertilizer files from (Lu and Tian., 2017) 
  (c) 'global_managment.py' --> creates the management files using the global datasets and the model TxtInOut folder files. 
 
 
