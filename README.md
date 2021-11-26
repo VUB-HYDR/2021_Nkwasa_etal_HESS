@@ -1,4 +1,4 @@
-# 2021_Nkwasa_et_al
+# 2021_Nkwasa_et_al_HESS
 
 Scripts used in the analysis of Nkwasa et al (submitted).
 
